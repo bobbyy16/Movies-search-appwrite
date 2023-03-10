@@ -1,0 +1,21 @@
+{
+    "projectId": "640aad101d1127b4f705",
+    "projectName": "movies",
+    "functions": [
+        {
+            "$id": "640ab3188abfbabc460b",
+            "name": "nodejs function",
+            "runtime": "node-16.0",
+            "path": "functions/nodejs function",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}

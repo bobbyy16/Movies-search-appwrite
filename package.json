@@ -2,6 +2,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "fs": "^0.0.1-security",
+    "meilisearch": "^0.31.1",
     "node-appwrite": "^8.2.0"
   }
 }
